@@ -24,17 +24,10 @@ Technologies Used
 
 Project Structure
 
-src/
-│── App.jsx                     # Main application component
-│── main.jsx                    # Application entry point
-│── index.css                   # Global styles
-│
-├── components/
-│   └── Navbar/
-│       ├── Navbar.jsx          # Navbar component and theme logic
-│       └── Navbar.css          # Navbar-specific styles
-│
-└── assets/                      # Images and icons
+
+
+<img width="753" height="329" alt="Screenshot 2026-01-19 133227" src="https://github.com/user-attachments/assets/95289f97-7b1a-4088-b764-727aae32a0b7" />
+
 
 
 Implementation Overview
