@@ -1,3 +1,85 @@
+Navbar in React JS | Light & Dark Mode Navigation Bar
+
+A responsive navigation bar built with React JS featuring light and dark mode switching, with theme preference persisted using localStorage. This project demonstrates clean component structure, modern UI styling, and practical state management in a React + Vite setup.
+
+Features
+
+ * Responsive Navigation BarA modern navbar layout including a logo, navigation menu links, a search box, and a theme toggle button.
+
+ * Light and Dark ModeAllows users to switch between light and dark themes with a single click.
+
+ * Theme PersistenceThe selected theme is stored in the browser’s local storage and remains active even after page reloads or browser restarts.
+
+ * Dynamic Theme IndicatorThe toggle indicator updates automatically based on the currently active theme.
+
+
+Technologies Used
+
+* React JS – User interface development
+
+* Vite – Fast development and build tool
+
+* CSS – Styling and layout
+
+
+Project Structure
+
+src/
+│── App.jsx                     # Main application component
+│── main.jsx                    # Application entry point
+│── index.css                   # Global styles
+│
+├── components/
+│   └── Navbar/
+│       ├── Navbar.jsx          # Navbar component and theme logic
+│       └── Navbar.css          # Navbar-specific styles
+│
+└── assets/                      # Images and icons
+
+
+Implementation Overview
+
+1. Project initialization using Vite and React
+
+2. Removal of default boilerplate files
+
+3. Creation of a reusable Navbar component
+
+4. Navbar layout with logo, navigation links, search input, and theme toggle
+
+5. Asset integration for logos and icons
+
+6. Styling using CSS
+
+7. Light and dark mode implementation using useState
+
+8. Theme state management in App.jsx and prop passing to Navbar.jsx
+
+9. Theme persistence using localStorage with useEffect
+
+
+SCREENSHORTS
+
+1. Light Mode Navbar
+
+![Uploading Screenshot 2026-01-19 132725.png…]()
+
+
+2. Dark Mode Navbar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
