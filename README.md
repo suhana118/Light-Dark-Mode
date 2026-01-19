@@ -62,12 +62,14 @@ SCREENSHORTS
 
 1. Light Mode Navbar
 
-![Uploading Screenshot 2026-01-19 132725.png…]()
+
+<img width="1915" height="904" alt="Screenshot 2026-01-19 132725" src="https://github.com/user-attachments/assets/edfaa48e-08ea-49f1-8590-09e2ae0775d8" />
 
 
 2. Dark Mode Navbar
 
 
+<img width="1908" height="908" alt="Screenshot 2026-01-19 132614" src="https://github.com/user-attachments/assets/16d96eb3-9f06-4f8e-808f-43f63d533c34" />
 
 
 
